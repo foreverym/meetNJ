@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="root">
+      <element id="directory" name="travel">
+        <element id="module-output" name="huajiaotravel" />
+      </element>
+    </root>
+  </artifact>
+</component>
